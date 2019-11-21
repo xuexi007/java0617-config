@@ -11,6 +11,4 @@ spring:
     show-sql: true
   application:
     name: userprovider
-server:
-  port: 9009
 version: UserProvider01-new-update
